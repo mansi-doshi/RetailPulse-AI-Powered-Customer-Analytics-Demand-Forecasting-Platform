@@ -1,5 +1,5 @@
 [**Note on Project Accessibility**
- Due to the requirement for a work or school account to publish the report to Power BI Service, I was unable to share a live, interactive version of this project. Therefore, I have uploaded the **Power BI (.pbix) file** to this repository for review. If you are unable to preview or open the file directly on GitHub, please refer to the **dashboard screenshots** included in the repository to explore all 12 dashboards and review the project's visualizations and insights.
+Due to the requirement for a work or school account to publish the report to Power BI Service, I was unable to share a live, interactive version of this project. Therefore, I have uploaded the **Power BI (.pbix) file** to this repository for review. If you are unable to preview or open the file directly on GitHub, please refer to the **dashboard screenshots** included in the repository to explore all 12 dashboards and review the project's visualizations and insights.
 
 Thank you for your understanding.]
 
